@@ -160,7 +160,7 @@
 					15439E661F0D717F0092BD0F = {
 						CreatedOnToolsVersion = 8.3.2;
 						DevelopmentTeam = 3R8ZGADY96;
-						LastSwiftMigration = 0830;
+						LastSwiftMigration = 0900;
 						ProvisioningStyle = Automatic;
 					};
 					15439E6F1F0D717F0092BD0F = {
